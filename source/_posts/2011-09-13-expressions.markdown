@@ -26,7 +26,9 @@ is a sequence showing his range of expression:
 [![Range of Expression IV][13]][13a]
 [![Range of Expression IV][14]][14a]
 
-(These were taken very early: note the hospital name band and the eyes that are green rather than blue from the remnants of jaundice. The pictures from the previous post were taken a bit later, after the jaundice cleared and his eyes had returned to baby blue --- much to my relief.)
+(These were taken very early: note the hospital name band and the eyes that are green rather than blue from the remnants of jaundice. The pictures from the previous post were taken a bit later, after the jaundice cleared and his eyes had returned to baby blue --- much to my relief.
+
+There is no social interaction in these photos -- compare with the later blue-eyed picture where he looks rather piercingly at Alexey.  At this point he did not distinguish faces from anything else in the world: he looked at everything like it was a meaningless jumble of light and color. His eyes flitted around almost randomly, seeking only windows, like a moth whose only beacon is large bright lights. Looking back at these pictures, the gaze devoid of recognition gives him something of the air of an absent-minded professor.)
 
 
 [6]:  https://lh5.googleusercontent.com/-tLPEVk7yfPE/TkK5qnEI7-I/AAAAAAAADds/kOJN4oOUSGw/s288/IMG_8233.jpg "Range of Expression I"
