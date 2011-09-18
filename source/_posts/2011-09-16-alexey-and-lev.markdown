@@ -25,7 +25,23 @@ is the sink for all bad things." So, as I mentioned, I tried to give
 him bottles so he could be a source of milk too. 
 
 [![Daddy with Bottle][19]][19a]
+[![Burping][20]][20a]
 
+Here you see him burping the baby. As I said, I hate burping. The kid
+is wailing his heart out, and all you can do is pat him on the back
+and emote at him desperately "it will all be OK if only you are a
+little bit patient!" I feel like an idiot. Then when he does burp, he
+gets this funny look on his face as if he suddenly feels stupid for
+making such a big deal over such a small thing. Here you see Alexey
+and the baby with his Post Burp Face:
+
+[![Daddy and Baby Post Burp][22]][22a]
+[![Post Burp Face][21]][21a]
+[![Whaddya Think of That?][23]][23a]
+
+The good part of burping is that he often gets quite happy afterwards (and why shouldn't he -- full tummy, no more gas?)
+
+[![Post Burp Happiness][24]][24a]
 
 
 [1]: /path/to/img.jpg "Title"
@@ -36,3 +52,13 @@ him bottles so he could be a source of milk too.
 [18a]: https://picasaweb.google.com/lh/photo/Csl8DmxUYAvdxdvZVeUz_IJ35BGm6sSypNLNdcLlep0?feat=directlink
 [19]: https://lh5.googleusercontent.com/-Dzrr5u9lj60/TkK6OWZlrJI/AAAAAAAADec/4hQ2xhr8F38/s288/IMG_8317.jpg "Daddy with Bottle"
 [19a]: https://picasaweb.google.com/lh/photo/-ZmIf6DjQeZhVhGmo9Bh34J35BGm6sSypNLNdcLlep0?feat=directlink
+[20]: https://lh6.googleusercontent.com/-Cf6XvHz6gNs/TkK6UirFxyI/AAAAAAAADek/xIQVHDv6bYA/s288/IMG_8319.jpg "Burping"
+[20a]: https://picasaweb.google.com/lh/photo/ykS_GyeJYMojRKstC4WKDoJ35BGm6sSypNLNdcLlep0?feat=directlink
+[21]: https://lh6.googleusercontent.com/-OY-8sMFyGu8/TkK6fFKvJAI/AAAAAAAADew/gy-O7Er8leo/s288/IMG_8339.jpg "Post Burp Face"
+[21a]: https://picasaweb.google.com/lh/photo/cmnBXjVe7XZxVuDZpQnqa4J35BGm6sSypNLNdcLlep0?feat=directlink
+[22]: https://lh5.googleusercontent.com/-X6wmDkKjOis/TkK6l-pPpwI/AAAAAAAADe0/MHbLXGQ64rM/s288/IMG_8344.jpg "Daddy and Baby Post Burp"
+[22a]: https://picasaweb.google.com/lh/photo/BIM9GFhzRS41MoFmPdMZ5YJ35BGm6sSypNLNdcLlep0?feat=directlink
+[23]: https://lh5.googleusercontent.com/-_vUvfuLP5Kw/TkK64eFZT_I/AAAAAAAADe8/DWYQPbROXHo/s288/IMG_8352.jpg
+[23a]: https://picasaweb.google.com/lh/photo/VLpTPHeoP_2tpDA6tAEyCIJ35BGm6sSypNLNdcLlep0?feat=directlink  
+[24]: https://lh4.googleusercontent.com/-BWPKldM7EsQ/TkK69pk35II/AAAAAAAADfI/N6_lt90dtAM/s640/IMG_8379.jpg "Post Burp Happiness"
+[24a]: https://picasaweb.google.com/lh/photo/bGCxHBg2gMDkHDOyrJAyMoJ35BGm6sSypNLNdcLlep0?feat=directlink
