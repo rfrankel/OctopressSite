@@ -39,10 +39,23 @@ and the baby with his Post Burp Face:
 [![Post Burp Face][21]][21a]
 [![Whaddya Think of That?][23]][23a]
 
-The good part of burping is that he often gets quite happy afterwards (and why shouldn't he -- full tummy, no more gas?)
+The good part of burping is that he often gets quite happy afterward
+all the dust has settled (and why shouldn't he -- full tummy, no more
+gas?) But the next time he never remembers that he his on the path to 
+Post Burp Happiness, and wails his heart out all over again. 
 
 [![Post Burp Happiness][24]][24a]
 
+I read an [essay][4T] which said that Dads are [better][DAD] than Moms
+at soothing colicky babies, so I sent Alexey a description of the
+technique of swaddling and shushing. It seems to be true -- if the
+baby cries normally, because he's hungry or cold or wet, I'm the one
+who can calm him, but if he gets sufficiently worked up, and is crying
+out of pure Weltschmertz, it is Alexey who has the magic touch.
+
+
+[4T]: http://www.pregnancy.org/article/curing-colic-4th-trimester-calming-reflex-amp-5-ss
+[DAD]: http://www.happiestbaby.com/dads-%E2%80%93-the-swaddlers-supreme/
 
 [1]: /path/to/img.jpg "Title"
 [1a]: /path/to/link "Title"
