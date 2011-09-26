@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Big Plans"
+date: 2011-08-02 06:30
+comments: false
+categories: JulyStory
+---
+
+### July Story, Part Eight
+
+Alexey, of course, has big plans for Junior's intellectual development:
+
+[![Lev and Debian Thinkpad][29]][29a]
+[![Lev and Yellow Books][30]][30a]
+
+
+[29]: https://lh6.googleusercontent.com/-LMkc1UgnICs/TkK7DXgeBjI/AAAAAAAADfQ/HO64a9QJhw8/s400/IMG_8414.jpg
+[29a]: https://picasaweb.google.com/lh/photo/b1_bzjH_L1gd1z4waPL9DIJ35BGm6sSypNLNdcLlep0?feat=directlink
+
+[30]: https://lh6.googleusercontent.com/-jTeEKzCI5WQ/TkK6agEBe_I/AAAAAAAADes/A6U3GNY6uvY/s288/IMG_8330.jpg
+[30a]: https://picasaweb.google.com/lh/photo/wkFe_jBY8ilkF33ewW9xyIJ35BGm6sSypNLNdcLlep0?feat=directlink
