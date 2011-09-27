@@ -2,7 +2,7 @@
 layout: post
 title: "Big Plans"
 date: 2011-08-02 06:30
-comments: false
+comments: true
 categories: JulyStory
 ---
 
