@@ -18,7 +18,7 @@ at anything particularly, then he started looking for food, somewhat
 later he started looking at faces, but only with a puzzled expression,
 then finally he learned to interact and met an expression with another
 expression.  However, to his mommy's chagrin, his main use of this
-trick so far is to sniffle and beg. His emotional life so far has been
+trick so far is to sniffle and beg. <!--more--> His emotional life so far has been
 centered around food (with perhaps a bit of the Trauma of Pooping
 thrown in). I don't begrudge him this focus, especially since I am so
 worried about his weight gain.

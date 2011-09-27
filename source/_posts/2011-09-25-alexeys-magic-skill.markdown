@@ -2,7 +2,7 @@
 layout: post
 title: "Alexey's Magic Touch"
 date: 2011-08-02 05:00
-comments: false
+comments: true
 categories: JulyStory
 ---
 

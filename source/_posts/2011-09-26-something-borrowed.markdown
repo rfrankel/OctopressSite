@@ -2,7 +2,7 @@
 layout: post
 title: "Something Borrowed, Something Blue"
 date: 2011-08-02 11:00
-comments: false
+comments: true
 categories: JulyStory
 ---
 
@@ -14,8 +14,8 @@ Wait, that's for weddings... well, it is even more true for
 babies. Maybe they force you to borrow something for your wedding to
 get practice for having a blue-eyed baby. Everything Lev is wearing in
 this picture is a gift from someone. The polka dotted shirt is from my
-mother, the mat he is lying on from Arthur and Kelly Glecker, and the
-blanket from the hospital (I unexpectedly stayed overnight, and since
+mother, the mat he is lying on from Arthur and Kelly Gleckler, and the
+blanket from the hospital <!--more--> (I unexpectedly stayed overnight, and since
 it was colder in the morning when I was ready to go home than I had
 prepared for, they gave me a blanket. I tried to give it back later
 but they wouldn't take back something that had been out of the

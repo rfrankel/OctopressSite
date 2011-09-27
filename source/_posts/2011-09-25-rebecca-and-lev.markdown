@@ -2,7 +2,7 @@
 layout: post
 title: "Rebecca and Baby Care"
 date: 2011-08-02 08:00
-comments: false
+comments: true
 categories: JulyStory
 ---
 
@@ -15,7 +15,7 @@ So we have seen Baby, Daddy, and Grandma. What about Mommy?
 
 I am much improved. When I saw myself in the mirror in the maternity 
 ward, I was rather frightened, but then I realized that no one looks 
-good in a maternity ward. The Hollywood actresses who put on a pregnancy 
+good in a maternity ward. <!--more--> The Hollywood actresses who put on a pregnancy 
 suit, cry a bunch at the "delivery" and then get out of bed looking like 
 Hollywood actresses do not exist in real life. 
 

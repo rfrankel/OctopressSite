@@ -2,7 +2,7 @@
 layout: post
 title: "Alexey and Baby Care"
 date: 2011-08-02 04:00
-comments: false
+comments: true
 categories: JulyStory
 ---
 ### July Story, Part Five
@@ -21,7 +21,7 @@ doing. God, I can't believe I said that.
 
 At first Alexey only helped with the diapers, but I worried that was
 unrewarding. As he said "Mommy is the source of all good things, Daddy
-is the sink for all bad things." So, as I mentioned, I tried to give
+is the sink for all bad things." <!--more--> So, as I mentioned, I tried to give
 him bottles so he could be a source of milk too. 
 
 [![Daddy with Bottle][19]][19a]

@@ -2,7 +2,7 @@
 layout: post
 title: "Oma Anne"
 date: 2011-08-02 07:00
-comments: false
+comments: true
 categories: JulyStory
 ---
 
@@ -13,10 +13,10 @@ categories: JulyStory
 
 
 My mother Anne came for the first month, and her help was invaluable,
-both as a birth partner and keeping ordinary life humming. The last
+both as a birth partner and keeping ordinary life humming. <!--more--> The last
 weekend we wanted to give her a little chance to be a real tourist in
 Ireland, so we rented a car and went to the tourist spot of her
-choice, which turned out to be Newgrange & Howth, one of the most
+choice, which turned out to be Newgrange & Knowth, one of the most
 spectacular prehistoric burial sites. We saw an underground stone room
 older than the pyramids, older than Stonehenge. The baby was much
 admired by passerbys, for it is rare to see a baby that small

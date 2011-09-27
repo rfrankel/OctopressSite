@@ -94,6 +94,8 @@ task :new_post, :title do |t, args|
   mkdir_p "#{source_dir}/#{posts_dir}"
   args.with_defaults(:title => 'new-post')
   title = args.title
+#  changed this to not have todays month and day, but changed it back when it didn't work
+#  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y')}-#{title.to_url}.#{new_post_ext}"
   filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
@@ -215,7 +217,9 @@ end
 desc "Deploy website via rsync"
 task :rsync do
   puts "## Deploying website via Rsync"
-  ok_failed system("rsync -avz --delete #{public_dir}/ #{ssh_user}:#{document_root}")
+#  changed so it won't delete
+#  ok_failed system("rsync -avz --delete #{public_dir}/ #{ssh_user}:#{document_root}")
+   ok_failed system("rsync -avz #{public_dir}/ #{ssh_user}:#{document_root}")
 end
 
 desc "deploy public directory to github pages"

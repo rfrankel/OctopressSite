@@ -2,7 +2,7 @@
 layout: post
 title: "PregoPics"
 date: 2011-08-02 10:00
-comments: false
+comments: true
 categories: JulyStory 
 ---
 
@@ -17,6 +17,8 @@ By the way, the peanut gallery has been demanding "Prego pics." Here, first, are
 [![][36]][36a]
 
 And here are pictures from the end when I got truly huge
+
+<!--more-->
 
 [![][39]][39a]
 [![][40]][40a]
